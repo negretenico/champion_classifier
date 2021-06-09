@@ -125,5 +125,30 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
-# Pyre type checker
-.pyre/
+### Images ###
+# JPEG
+*.jpg
+*.jpeg
+*.jpe
+*.jif
+*.jfif
+*.jfi
+
+# JPEG 2000
+*.jp2
+*.j2k
+*.jpf
+*.jpx
+*.jpm
+*.mj2
+
+# JPEG XR
+*.jxr
+*.hdp
+*.wdp
+
+
+# Portable Network Graphics
+*.png
+
+webdriver/chromedriver.exe
